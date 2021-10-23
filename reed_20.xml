@@ -1,0 +1,363 @@
+<?xml version="1.0"?>
+<root>
+<course>
+   <reg_num>10577</reg_num>
+   <subj>ANTH</subj>
+   <crse>211</crse>
+   <sect>F01</sect>
+   <title>Introduction to Anthropology</title>
+   <units>1.0</units>
+   <instructor>Brightman</instructor>
+   <days>M-W</days>
+   <time>
+       <start_time>03:10PM</start_time>
+       <end_time>04:30</end_time>
+   </time>
+   <place>
+       <building>ELIOT</building>
+       <room>414</room>
+   </place>
+</course>
+<course>
+   <reg_num>20573</reg_num>
+   <subj>ANTH</subj>
+   <crse>344</crse>
+   <sect>S01</sect>
+   <title>Sex and Gender</title>
+   <units>1.0</units>
+   <instructor>Makley</instructor>
+   <days>T-Th</days>
+   <time>
+       <start_time>10:30AM</start_time>
+       <end_time>11:50</end_time>
+   </time>
+   <place>
+       <building>VOLLUM</building>
+       <room>120</room>
+   </place>
+</course>
+<course>
+   <reg_num>10624</reg_num>
+   <subj>BIOL</subj>
+   <crse>431</crse>
+   <sect>F01</sect>
+   <title>Field Biology of Amphibians</title>
+   <units>0.5</units>
+   <instructor>Kaplan</instructor>
+   <days>T</days>
+   <time>
+       <start_time>06:10PM</start_time>
+       <end_time>08:00</end_time>
+   </time>
+   <place>
+       <building>PHYSIC</building>
+       <room>240A</room>
+   </place>
+</course>
+<course>
+   <reg_num>10626</reg_num>
+   <subj>BIOL</subj>
+   <crse>431</crse>
+   <sect>F03</sect>
+   <title>Bacterial Pathogenesis</title>
+   <units>0.5</units>
+   <instructor></instructor>
+   <days></days>
+   <time>
+       <start_time></start_time>
+       <end_time></end_time>
+   </time>
+   <place>
+       <building></building>
+       <room>Mellies         RESCHEDULED TO OTHER SEMESTER</room>
+   </place>
+</course>
+<course>
+   <reg_num>20626</reg_num>
+   <subj>BIOL</subj>
+   <crse>431</crse>
+   <sect>S04</sect>
+   <title>Seminar in Biology</title>
+   <units>0.5</units>
+   <instructor>Yezerinac</instructor>
+   <days>Th</days>
+   <time>
+       <start_time>06:10PM</start_time>
+       <end_time>08:00</end_time>
+   </time>
+   <place>
+       <building>BIOL</building>
+       <room>200A</room>
+   </place>
+</course>
+<course>
+   <reg_num>10543</reg_num>
+   <subj>CHEM</subj>
+   <crse>101</crse>
+   <sect>F</sect>
+   <title>MolecularStructure and Properties</title>
+   <units>1.0</units>
+   <instructor>Geselbracht</instructor>
+   <days>M-W-F</days>
+   <time>
+       <start_time>11:00AM</start_time>
+       <end_time>11:50</end_time>
+   </time>
+   <place>
+       <building>VOLLUM</building>
+       <room>VLH</room>
+   </place>
+</course>
+<course>
+   <reg_num>10544</reg_num>
+   <subj>CHEM</subj>
+   <crse>101</crse>
+   <sect>F01</sect>
+   <title>MolecularStructure and Properties</title>
+   <units>0.0</units>
+   <instructor>Geselbracht</instructor>
+   <days>M</days>
+   <time>
+       <start_time>01:10PM</start_time>
+       <end_time>02:00</end_time>
+   </time>
+   <place>
+       <building>CHEM</building>
+       <room>301</room>
+   </place>
+</course>
+<course>
+   <reg_num>10545</reg_num>
+   <subj>CHEM</subj>
+   <crse>101</crse>
+   <sect>F02</sect>
+   <title>MolecularStructure and Properties</title>
+   <units>0.0</units>
+   <instructor>Geselbracht</instructor>
+   <days>M</days>
+   <time>
+       <start_time>02:10PM</start_time>
+       <end_time>03:00</end_time>
+   </time>
+   <place>
+       <building>CHEM</building>
+       <room>301</room>
+   </place>
+</course>
+<course>
+   <reg_num>10546</reg_num>
+   <subj>CHEM</subj>
+   <crse>101</crse>
+   <sect>F03</sect>
+   <title>MolecularStructure and Properties</title>
+   <units>0.0</units>
+   <instructor>Geselbracht</instructor>
+   <days>M</days>
+   <time>
+       <start_time>03:10PM</start_time>
+       <end_time>04:00</end_time>
+   </time>
+   <place>
+       <building>CHEM</building>
+       <room>301</room>
+   </place>
+</course>
+<course>
+   <reg_num>10789</reg_num>
+   <subj>CHEM</subj>
+   <crse>101</crse>
+   <sect>F08</sect>
+   <title>MolecularStructure and Properties</title>
+   <units>0.0</units>
+   <instructor>Geselbracht</instructor>
+   <days>T</days>
+   <time>
+       <start_time>11:00AM</start_time>
+       <end_time>11:50</end_time>
+   </time>
+   <place>
+       <building>PHYSIC</building>
+       <room>123</room>
+   </place>
+</course>
+<course>
+   <reg_num>10547</reg_num>
+   <subj>CHEM</subj>
+   <crse>101</crse>
+   <sect>F04</sect>
+   <title>MolecularStructure and Properties</title>
+   <units>0.0</units>
+   <instructor>Geselbracht</instructor>
+   <days>T</days>
+   <time>
+       <start_time>01:10PM</start_time>
+       <end_time>02:00</end_time>
+   </time>
+   <place>
+       <building>CHEM</building>
+       <room>301</room>
+   </place>
+</course>
+<course>
+   <reg_num>10548</reg_num>
+   <subj>CHEM</subj>
+   <crse>101</crse>
+   <sect>F05</sect>
+   <title>MolecularStructure and Properties</title>
+   <units>0.0</units>
+   <instructor>Geselbracht</instructor>
+   <days>T</days>
+   <time>
+       <start_time>02:10PM</start_time>
+       <end_time>03:00</end_time>
+   </time>
+   <place>
+       <building>CHEM</building>
+       <room>301</room>
+   </place>
+</course>
+<course>
+   <reg_num>20575</reg_num>
+   <subj>ANTH</subj>
+   <crse>344</crse>
+   <sect>S02</sect>
+   <title>Sex and Gender</title>
+   <units>1.0</units>
+   <instructor>Makley</instructor>
+   <days>T-Th</days>
+   <time>
+       <start_time>01:10PM</start_time>
+       <end_time>02:30</end_time>
+   </time>
+   <place>
+       <building>VOLLUM</building>
+       <room>110</room>
+   </place>
+</course>
+<course>
+   <reg_num>10549</reg_num>
+   <subj>CHEM</subj>
+   <crse>101</crse>
+   <sect>F06</sect>
+   <title>MolecularStructure and Properties</title>
+   <units>0.0</units>
+   <instructor>Geselbracht</instructor>
+   <days>T</days>
+   <time>
+       <start_time>03:10PM</start_time>
+       <end_time>04:00</end_time>
+   </time>
+   <place>
+       <building>CHEM</building>
+       <room>301</room>
+   </place>
+</course>
+<course>
+   <reg_num>10550</reg_num>
+   <subj>CHEM</subj>
+   <crse>101</crse>
+   <sect>F07</sect>
+   <title>MolecularStructure and Properties</title>
+   <units>0.0</units>
+   <instructor>Geselbracht</instructor>
+   <days>T</days>
+   <time>
+       <start_time>04:10PM</start_time>
+       <end_time>05:00</end_time>
+   </time>
+   <place>
+       <building>CHEM</building>
+       <room>301</room>
+   </place>
+</course>
+<course>
+   <reg_num>10551</reg_num>
+   <subj>CHEM</subj>
+   <crse>101</crse>
+   <sect>FL1</sect>
+   <title>MolecularStructure and Properties</title>
+   <units>0.0</units>
+   <instructor>Geselbracht</instructor>
+   <days>M</days>
+   <time>
+       <start_time>01:10PM</start_time>
+       <end_time>04:00</end_time>
+   </time>
+   <place>
+       <building>CHEM</building>
+       <room>308</room>
+   </place>
+</course>
+<course>
+   <reg_num>10555</reg_num>
+   <subj>CHEM</subj>
+   <crse>101</crse>
+   <sect>FL5</sect>
+   <title>MolecularStructure and Properties</title>
+   <units>0.0</units>
+   <instructor>Geselbracht</instructor>
+   <days>T</days>
+   <time>
+       <start_time>09:00AM</start_time>
+       <end_time>11:50</end_time>
+   </time>
+   <place>
+       <building>CHEM</building>
+       <room>308</room>
+   </place>
+</course>
+<course>
+   <reg_num>10552</reg_num>
+   <subj>CHEM</subj>
+   <crse>101</crse>
+   <sect>FL2</sect>
+   <title>MolecularStructure and Properties</title>
+   <units>0.0</units>
+   <instructor>Geselbracht</instructor>
+   <days>T</days>
+   <time>
+       <start_time>01:10PM</start_time>
+       <end_time>04:00</end_time>
+   </time>
+   <place>
+       <building>CHEM</building>
+       <room>308</room>
+   </place>
+</course>
+<course>
+   <reg_num>10553</reg_num>
+   <subj>CHEM</subj>
+   <crse>101</crse>
+   <sect>FL3</sect>
+   <title>MolecularStructure and Properties</title>
+   <units>0.0</units>
+   <instructor>Geselbracht</instructor>
+   <days>W</days>
+   <time>
+       <start_time>01:10PM</start_time>
+       <end_time>04:00</end_time>
+   </time>
+   <place>
+       <building>CHEM</building>
+       <room>308</room>
+   </place>
+</course>
+<course>
+   <reg_num>10557</reg_num>
+   <subj>CHEM</subj>
+   <crse>101</crse>
+   <sect>FL7</sect>
+   <title>MolecularStructure and Properties</title>
+   <units>0.0</units>
+   <instructor>Geselbracht</instructor>
+   <days>W</days>
+   <time>
+       <start_time>06:10PM</start_time>
+       <end_time>09:00</end_time>
+   </time>
+   <place>
+       <building>CHEM</building>
+       <room>308</room>
+   </place>
+</course>
+</root>
